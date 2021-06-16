@@ -114,10 +114,10 @@ Person.prototype.toString = function(){
   /* 
     TASK 4
     In your own words explain the four principles for the "this" keyword below:
-    1. 
-    2. 
-    3. 
-    4. 
+    1. The first principle is the global aspect where this will give you the value of the window object.
+    2. Implicit binding binds to the left of the dot.
+    3. Explicit binding is used to bind this to a specific value.
+    4. New binder as a constructor function. 
   */
   
   
